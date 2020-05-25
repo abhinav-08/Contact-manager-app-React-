@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/abhinav-08/Contact-manager-app-React-/static/css/main.36497136.chunk.css",
-    "main.js": "/abhinav-08/Contact-manager-app-React-/static/js/main.fe4fdace.chunk.js",
-    "main.js.map": "/abhinav-08/Contact-manager-app-React-/static/js/main.fe4fdace.chunk.js.map",
-    "runtime-main.js": "/abhinav-08/Contact-manager-app-React-/static/js/runtime-main.e40484cf.js",
-    "runtime-main.js.map": "/abhinav-08/Contact-manager-app-React-/static/js/runtime-main.e40484cf.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/abhinav-08/Contact-manager-app-React-/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.36bd952f.chunk.js": "/abhinav-08/Contact-manager-app-React-/static/js/2.36bd952f.chunk.js",
-    "static/js/2.36bd952f.chunk.js.map": "/abhinav-08/Contact-manager-app-React-/static/js/2.36bd952f.chunk.js.map",
-    "index.html": "/abhinav-08/Contact-manager-app-React-/index.html",
-    "precache-manifest.5351a2cb1cbdafd0b44427843ddd12e7.js": "/abhinav-08/Contact-manager-app-React-/precache-manifest.5351a2cb1cbdafd0b44427843ddd12e7.js",
-    "service-worker.js": "/abhinav-08/Contact-manager-app-React-/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/abhinav-08/Contact-manager-app-React-/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/abhinav-08/Contact-manager-app-React-/static/css/main.36497136.chunk.css.map",
-    "static/js/2.36bd952f.chunk.js.LICENSE.txt": "/abhinav-08/Contact-manager-app-React-/static/js/2.36bd952f.chunk.js.LICENSE.txt"
+    "main.css": "/Contact-manager-app-React-/static/css/main.36497136.chunk.css",
+    "main.js": "/Contact-manager-app-React-/static/js/main.c8ebd6c7.chunk.js",
+    "main.js.map": "/Contact-manager-app-React-/static/js/main.c8ebd6c7.chunk.js.map",
+    "runtime-main.js": "/Contact-manager-app-React-/static/js/runtime-main.7ba44188.js",
+    "runtime-main.js.map": "/Contact-manager-app-React-/static/js/runtime-main.7ba44188.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Contact-manager-app-React-/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.36bd952f.chunk.js": "/Contact-manager-app-React-/static/js/2.36bd952f.chunk.js",
+    "static/js/2.36bd952f.chunk.js.map": "/Contact-manager-app-React-/static/js/2.36bd952f.chunk.js.map",
+    "index.html": "/Contact-manager-app-React-/index.html",
+    "precache-manifest.2166a006e24a961dbf51f878718deebf.js": "/Contact-manager-app-React-/precache-manifest.2166a006e24a961dbf51f878718deebf.js",
+    "service-worker.js": "/Contact-manager-app-React-/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Contact-manager-app-React-/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/Contact-manager-app-React-/static/css/main.36497136.chunk.css.map",
+    "static/js/2.36bd952f.chunk.js.LICENSE.txt": "/Contact-manager-app-React-/static/js/2.36bd952f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e40484cf.js",
+    "static/js/runtime-main.7ba44188.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.36bd952f.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.fe4fdace.chunk.js"
+    "static/js/main.c8ebd6c7.chunk.js"
   ]
 }
